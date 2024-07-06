@@ -2,8 +2,7 @@
   "name": "calc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/dee2yadaw/calc.git",
-  "dependencies": {
+ "dependencies": {
     "@headlessui/react": "^2.1.2",
     "@heroicons/react": "^2.1.4",
     "@testing-library/jest-dom": "^5.17.0",
@@ -43,5 +42,4 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
-  
 }
